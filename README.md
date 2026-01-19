@@ -26,7 +26,7 @@ RAMBO is designed to streamline the analysis of Raman spectroscopy data for five
 
 ### Steps
 ```bash
-git clone https://github.com/yourusername/RAMBO.git
+git clone https://github.com/CenterforIntelligentOptics/RAMBO.git
 cd RAMBO
 pip install -r requirements.txt
 python dash_app.py
